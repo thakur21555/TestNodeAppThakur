@@ -3,8 +3,8 @@ applications:
   memory: 512M
   instances: 1
   domain: mybluemix.net
-  name: TestNodeAppThakur
-  host: TestNodeAppThakur
+  name: SmartMornChatterApp
+  host: SmartMornChatterApp
   disk_quota: 1024M
   services:
   - TestNodeAppThakur-cloudantNoSQLDB
